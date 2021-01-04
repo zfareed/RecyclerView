@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
         data.add("Awais Saeed");
         data.add("Huzaifa Shah");
         data.add("Hammad Bashir");
+        data.add("Zaman Khan");
+        data.add("Harris Khan");
 
 
     }
